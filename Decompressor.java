@@ -1,4 +1,4 @@
-package Compress_Decompress;
+package BreadcrumbsCompress_Decompress;
 
 import java.io.File;
 import java.io.FileInputStream;

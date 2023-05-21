@@ -1,4 +1,4 @@
-package Compress_Decompress;
+package BreadcrumbsCompress_Decompress;
 
 import java.awt.Color;
 import java.awt.event.ActionEvent;
@@ -9,9 +9,6 @@ import javax.swing.JButton;
 import javax.swing.JFileChooser;
 import javax.swing.JFrame;
 import javax.swing.JOptionPane;
-
-import com_decomp.Compressor;
-import com_decomp.Decompressor;
 
 public class AppFrame extends JFrame implements ActionListener{
 	JButton compressButton;
